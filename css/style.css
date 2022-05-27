@@ -1,3 +1,21 @@
+.textoOpaco {
+    color: lightgray;
+    font-size: .7rem;
+}
+
+.total {
+    background-color: lightblue;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: .8rem;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.textoGris {
+    font-size: .8rem;
+    color: lightgray;
+}
 
 .cont-nav{
     width: 90%;
@@ -60,19 +78,6 @@
     align-items: left;
 }
 
-.row-img1{
-        background-image: url('../imagenes/simuladores.jpg');
-        background-size:cover;
-        height: 300px;
-}
-.row-img2{
-    background-color: #353a40;
-    padding-top: 10px;;
-}
-.text-simuladores{
-    color: black;
-    font-size: 0.9rem;
-}
 .row-contenedor{
     padding-top: 4
     0px;
@@ -126,3 +131,5 @@ footer a{
         padding-top: 55%;
     }
   }
+
+  
